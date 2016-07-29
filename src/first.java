@@ -6,6 +6,7 @@
 public class first {
 
 	public static void main(String[] args) {
+		System.out.println("段赛赛");
 		int a = 10;
 		a = 11;
 		int b = 12;
